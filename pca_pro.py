@@ -6,7 +6,7 @@ from sklearn.datasets.samples_generator import make_blobs
 
 from pandas.tools.plotting import parallel_coordinates
 
-url = 'F:\python_program\input\housing.csv'
+url = 'housing.csv'
 cols =  ['id', 'area', 'room','floar','price']
 data = pd.read_csv(url, names=cols)
 

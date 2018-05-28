@@ -1,2 +1,2 @@
 # Simple_PCA
- Principal Component Analysis used to reduce the features size 
+ Principal Component Analysis used to reduce the features size from dataset
